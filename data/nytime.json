@@ -1,0 +1,1039 @@
+{
+  "response": {
+    "meta": {
+      "hits": 66110,
+      "time": 321,
+      "offset": 0
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/07/24/books/review/the-games-a-global-history-of-the-olympics-david-goldblatt.html",
+        "snippet": "David Goldblatt’s “The Games” recalls unflattering aspects of the Olympics long before doping and gender testing.",
+        "lead_paragraph": "David Goldblatt’s “The Games” recalls unflattering aspects of the Olympics long before doping and gender testing.",
+        "abstract": "Mary Pilon reviews book The Games: A Global History of the Olympics by David Goldblatt.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/24/books/review/24PILON1/24PILON1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/24/books/review/24PILON1/24PILON1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/24/books/review/24PILON1/24PILON1-articleLarge.jpg",
+            "height": 439,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/24/books/review/24PILON1/24PILON1-articleLarge.jpg",
+              "xlargeheight": "439"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/24/books/review/24PILON1/24PILON1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/24/books/review/24PILON1/24PILON1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Dark History of the Olympics",
+          "content_kicker": "Nonfiction",
+          "kicker": "Nonfiction",
+          "print_headline": "Tarnish on the Torch"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Goldblatt, David (1965- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Games: A Global History of the Olympics (Book)"
+          }
+        ],
+        "pub_date": "2016-07-24T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "BookReview",
+        "section_name": "Books",
+        "subsection_name": "Book Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mary",
+              "rank": 1,
+              "lastname": "PILON"
+            }
+          ],
+          "original": "By MARY PILON"
+        },
+        "type_of_material": "Review",
+        "_id": "578ca1a179881043e05a62b7",
+        "word_count": "1033",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/06/18/sports/olympics/barring-russias-team-not-just-individuals-is-a-powerful-move.html",
+        "snippet": "Penalizing a country for doping seems to be a much more effective way to ensure rapid and enduring change.",
+        "lead_paragraph": "Penalizing a country for doping seems to be a much more effective way to ensure rapid and enduring change.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/18/sports/18CLAREY/18CLAREY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/18/sports/18CLAREY/18CLAREY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/06/18/sports/18CLAREY/18CLAREY-articleLarge.jpg",
+            "height": 430,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/06/18/sports/18CLAREY/18CLAREY-articleLarge.jpg",
+              "xlargeheight": "430"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/18/sports/18CLAREY/18CLAREY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/18/sports/18CLAREY/18CLAREY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Barring Russia’s Team, Not Just Individuals, Is a Powerful Move",
+          "content_kicker": "On Olympics",
+          "kicker": "On Olympics",
+          "print_headline": "Watchdogs Show Teeth and, Finally, Some Spine"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Track and Field"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Doping (Sports)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "International Assn of Athletics Federations"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "International Olympic Committee"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "World Anti-Doping Agency"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          }
+        ],
+        "pub_date": "2016-06-18T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christopher",
+              "rank": 1,
+              "lastname": "CLAREY"
+            }
+          ],
+          "original": "By CHRISTOPHER CLAREY"
+        },
+        "type_of_material": "News",
+        "_id": "57644a9579881039ce6e3930",
+        "word_count": "1286",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/05/sports/olympics/tegla-loroupe-gives-refugee-olympians-a-lesson-in-hope.html",
+        "snippet": "Loroupe, who won the New York City Marathon in 1994 and 1995, is the leader of the 10 displaced athletes who make up the Refugee Olympic Team.",
+        "lead_paragraph": "Loroupe, who won the New York City Marathon in 1994 and 1995, is the leader of the 10 displaced athletes who make up the Refugee Olympic Team.",
+        "abstract": "Groundbreaking Kenyan marathoner Tegla Loroupe is participating in her fourth Olympics as peace ambassador, leading group of 10 displaced athletes known as Refugee Olympic Team.",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/05/sports/05LOROUPEweb1/05LOROUPEweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/05/sports/05LOROUPEweb1/05LOROUPEweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/05/sports/05LOROUPEweb1/05LOROUPEweb1-articleLarge.jpg",
+            "height": 404,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/05/sports/05LOROUPEweb1/05LOROUPEweb1-articleLarge.jpg",
+              "xlargeheight": "404"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/05/sports/05LOROUPEweb1/05LOROUPEweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/05/sports/05LOROUPEweb1/05LOROUPEweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Tegla Loroupe Gives Refugee Olympians a Lesson in Hope",
+          "content_kicker": "On Olympics",
+          "kicker": "On Olympics",
+          "print_headline": "Groundbreaking Marathoner Now Fights for Rights"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Loroupe, Tegla"
+          }
+        ],
+        "pub_date": "2016-08-05T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeré",
+              "rank": 1,
+              "lastname": "LONGMAN"
+            }
+          ],
+          "original": "By JERÉ LONGMAN"
+        },
+        "type_of_material": "News",
+        "_id": "57a38a1479881061491f3021",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/01/sports/olympics/sue-bird-diana-taurasi-womens-basketball.html",
+        "snippet": "It is time to focus on the folks going to Rio without fear or complaint — like Diana Taurasi and Sue Bird, who hope to win their fourth gold with the United States women’s basketball team.",
+        "lead_paragraph": "It is time to focus on the folks going to Rio without fear or complaint — like Diana Taurasi and Sue Bird, who hope to win their fourth gold with the United States women’s basketball team.",
+        "abstract": "Harvey Araton On Olympics column asserts that it is time for public to focus on athletes who are competing at 2016 Olympics rather than those who are sitting out; calls particular attention to United States women's national basketball team, which has won five straight Olympic gold medals, has 41-game winning streak and has become premier dynasty of Olympic team sports.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/01/sports/01ARATON--web/01ARATON--web-thumbWide-v4.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/01/sports/01ARATON--web/01ARATON--web-thumbWide-v4.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/01/sports/01ARATON--web/01ARATON--web-articleLarge-v2.jpg",
+            "height": 420,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/01/sports/01ARATON--web/01ARATON--web-articleLarge-v2.jpg",
+              "xlargeheight": "420"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/01/sports/01ARATON--web/01ARATON--web-thumbStandard-v4.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/01/sports/01ARATON--web/01ARATON--web-thumbStandard-v4.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Let LeBron James and Others Bail From Rio. These Women? Not a Chance.",
+          "content_kicker": "On Olympics",
+          "kicker": "On Olympics",
+          "print_headline": "Let James and Others Bail. These Women? No Chance."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Basketball"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Bird, Sue"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Taurasi, Diana"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Auriemma, Geno"
+          }
+        ],
+        "pub_date": "2016-08-01T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Harvey",
+              "rank": 1,
+              "lastname": "ARATON"
+            }
+          ],
+          "original": "By HARVEY ARATON"
+        },
+        "type_of_material": "News",
+        "_id": "579ea1f579881046d75abfef",
+        "word_count": "993",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/08/sports/olympics/blinded-to-doping-amid-the-olympics-spectacle.html",
+        "snippet": "Fans may want athletes to be drug free, but they also want to be entertained by raw power, and there has long been a wink-and-nod pragmatism about weight lifting in particular.",
+        "lead_paragraph": "Fans may want athletes to be drug free, but they also want to be entertained by raw power, and there has long been a wink-and-nod pragmatism about weight lifting in particular.",
+        "abstract": "Jere Longman On Olympics column argues quality of weight lifting competition at 2016 Rio Olympics will suffer without participation of Russian and Bulgarian teams, which were banned for doping; asserts officials should make exception for sport with historical dependence on doping.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/08/sports/08LONGMANweb2/08LONGMANweb2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/08/sports/08LONGMANweb2/08LONGMANweb2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/08/sports/08LONGMANweb2/08LONGMANweb2-articleLarge.jpg",
+            "height": 385,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/08/sports/08LONGMANweb2/08LONGMANweb2-articleLarge.jpg",
+              "xlargeheight": "385"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/08/sports/08LONGMANweb2/08LONGMANweb2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/08/sports/08LONGMANweb2/08LONGMANweb2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "After Drug Tests, Is Anyone Left in the Weight-Lifting Room?",
+          "content_kicker": "On Olympics",
+          "kicker": "On Olympics",
+          "print_headline": "A Dose of Reality in Weight Lifting"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Doping (Sports)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Weight Lifting"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Bulgaria"
+          }
+        ],
+        "pub_date": "2016-08-08T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeré",
+              "rank": 1,
+              "lastname": "LONGMAN"
+            }
+          ],
+          "original": "By JERÉ LONGMAN"
+        },
+        "type_of_material": "News",
+        "_id": "57a78d4579881044a25cd6f7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/25/sports/olympics/doping-russia-olympics-ioc.html",
+        "snippet": "By deciding against a complete ban of Russian athletes from the Rio Games, the International Olympic Committee is sending mixed messages.",
+        "lead_paragraph": "By deciding against a complete ban of Russian athletes from the Rio Games, the International Olympic Committee is sending mixed messages.",
+        "abstract": "Jere Longman On Olympics column holds that International Olympic Committee's decision against banning all Russian athletes from 2016 Olympics contradicts its zero tolerance stance on doping.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/25/sports/25LONGMANweb/25LONGMANweb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/25/sports/25LONGMANweb/25LONGMANweb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/25/sports/25LONGMANweb/25LONGMANweb-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/25/sports/25LONGMANweb/25LONGMANweb-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/25/sports/25LONGMANweb/25LONGMANweb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/25/sports/25LONGMANweb/25LONGMANweb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Who’s Really in the Fight Against Doping? It’s Clear Once Again",
+          "content_kicker": "On Olympics",
+          "kicker": "On Olympics",
+          "print_headline": "I.O.C.’s Muted Response to Doping Speaks Volumes"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Doping (Sports)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Tests (Drug Use)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "International Olympic Committee"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          }
+        ],
+        "pub_date": "2016-07-25T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeré",
+              "rank": 1,
+              "lastname": "LONGMAN"
+            }
+          ],
+          "original": "By JERÉ LONGMAN"
+        },
+        "type_of_material": "News",
+        "_id": "57951c9a7988103b895949db",
+        "word_count": "944",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/04/insider/05-Insider-Numbers.html",
+        "snippet": "How did The New York Times prepare for its Olympics coverage? Here’s a quantitative look.",
+        "lead_paragraph": "How did The New York Times prepare for its Olympics coverage? Here’s a quantitative look.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/05/insider/05insider-numbers02/05insider-numbers02-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/05/insider/05insider-numbers02/05insider-numbers02-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/05/insider/05insider-numbers02/05insider-numbers02-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/05/insider/05insider-numbers02/05insider-numbers02-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/05/insider/05insider-numbers02/05insider-numbers02-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/05/insider/05insider-numbers02/05insider-numbers02-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "By the Numbers: Preparing for the Olympics"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Rio de Janeiro (Brazil)"
+          }
+        ],
+        "pub_date": "2016-08-04T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "Times Insider",
+        "section_name": "Times Insider",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stephen",
+              "rank": 1,
+              "lastname": "HILTNER"
+            }
+          ],
+          "original": "By STEPHEN HILTNER"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57a4963179881061491f32e6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/sports/olympics/rio-olympics-photo-firehose.html",
+        "snippet": "A real-time stream of images from the Rio 2016 Olympics by photographers for The New York Times, The Associated Press, Reuters, Getty Images, European Pressphoto Agency, and Agence France-Presse.",
+        "lead_paragraph": "A real-time stream of images from the Rio 2016 Olympics by photographers for The New York Times, The Associated Press, Reuters, Getty Images, European Pressphoto Agency, and Agence France-Presse.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/11/sports/11firehosepromo/11firehosepromo-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/11/sports/11firehosepromo/11firehosepromo-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/11/sports/11firehosepromo/11firehosepromo-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/11/sports/11firehosepromo/11firehosepromo-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/11/sports/11firehosepromo/11firehosepromo-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/11/sports/11firehosepromo/11firehosepromo-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Photo Firehose: Rio Olympics"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          }
+        ],
+        "pub_date": "2016-08-10T16:02:59Z",
+        "document_type": "multimedia",
+        "news_desk": "Sports / Olympics",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "57a4bfbf7988100ecf65d264",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/07/31/magazine/rio-olympics-issue.html",
+        "snippet": "The peerless swimmer Katie Ledecky; a photo essay of Olympians and their heroes; the sprinter Justin Gatlin’s comeback; how Boston’s citizens fought to reject their city’s bid; and 10 writers on their memories of Games past.",
+        "lead_paragraph": "The peerless swimmer Katie Ledecky; a photo essay of Olympians and their heroes; the sprinter Justin Gatlin’s comeback; how Boston’s citizens fought to reject their city’s bid; and 10 writers on their memories of Games past.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/31/magazine/31gatlin1-copy/31gatlin1-copy-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/31/magazine/31gatlin1-copy/31gatlin1-copy-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/31/magazine/31gatlin1-copy/31gatlin1-copy-articleLarge-v2.jpg",
+            "height": 397,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/31/magazine/31gatlin1-copy/31gatlin1-copy-articleLarge-v2.jpg",
+              "xlargeheight": "397"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/31/magazine/31gatlin1-copy/31gatlin1-copy-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/31/magazine/31gatlin1-copy/31gatlin1-copy-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Olympics Issue",
+          "kicker": "The Olympics Issue"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gatlin, Justin"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ledecky, Katie"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Boston (Mass)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Rio de Janeiro (Brazil)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brazil"
+          }
+        ],
+        "pub_date": "2016-07-31T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES MAGAZINE",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "579c888a7988100fe368f50a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html",
+        "snippet": "The account of which countries have dominated the Summer Olympics is also a snapshot of modern history.",
+        "lead_paragraph": "The account of which countries have dominated the Summer Olympics is also a snapshot of modern history.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/08/sports/olympics/history-olympic-dominance-charts-1470690335989/history-olympic-dominance-charts-1470690335989-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/08/sports/olympics/history-olympic-dominance-charts-1470690335989/history-olympic-dominance-charts-1470690335989-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/08/sports/olympics/history-olympic-dominance-charts-1470690335989/history-olympic-dominance-charts-1470690335989-articleLarge.png",
+            "height": 263,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/08/sports/olympics/history-olympic-dominance-charts-1470690335989/history-olympic-dominance-charts-1470690335989-articleLarge.png",
+              "xlargeheight": "263"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/08/sports/olympics/history-olympic-dominance-charts-1470690335989/history-olympic-dominance-charts-1470690335989-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/08/sports/olympics/history-olympic-dominance-charts-1470690335989/history-olympic-dominance-charts-1470690335989-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Visual History of Which Countries Have Dominated the Summer Olympics"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Athletics and Sports"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Swimming"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Diving (Sports Event)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Wrestling"
+          }
+        ],
+        "pub_date": "2016-08-08T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "Sports / Olympics",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gregor",
+              "rank": 1,
+              "lastname": "AISCH"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Larry",
+              "rank": 2,
+              "lastname": "BUCHANAN"
+            }
+          ],
+          "original": "By GREGOR AISCH and LARRY BUCHANAN"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57a8f67879881062dd57d4d6",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
