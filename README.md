@@ -1,4 +1,4 @@
-# Machine Learning in Python, SMU CSE5324/CSE7324
+# Machine Learning in Python, SMU CS5324/CS7324
 This is a repository for my course at SMU, CSE5/7324. It should be accessible for anyone with coding experience in Python and some machine learning knowledge. Feel free to use any and all code for any purpose. 
 
 
