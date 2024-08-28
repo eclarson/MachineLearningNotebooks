@@ -4,7 +4,7 @@ This is a repository for my course at SMU, CSE5/7324. It should be accessible fo
 
 Yaml environment file coming soon. Untl then, you can start you own environment with the folliwing installs:
 
-`conda create --name mlenv2020 python=3.7`
+`conda create --name mlenv2020 python=3.8`
 `jupyter` 
 `numpy`
 `pandas`
@@ -13,6 +13,10 @@ Yaml environment file coming soon. Untl then, you can start you own environment 
 `tensorflow`
 `plotly`
 `scikit-image`
+
+There are also packages on conda-forge that are used in the class, such as:
+
+`missingno`
 
 If you wish to use JupyterLab, some visualization dependencies need to be installed:
 
