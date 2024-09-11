@@ -2,29 +2,33 @@
 This is a repository for my course at SMU, CSE5/7324. It should be accessible for anyone with coding experience in Python and some machine learning knowledge. Feel free to use any and all code for any purpose. 
 
 
-Yaml environment file coming soon. Untl then, you can start you own environment with the folliwing installs:
+The environment should be setup using the following installs for python 3.11:
 
-`conda create --name mlenv2020 python=3.8`
-`jupyter` 
-`numpy`
-`pandas`
-`matplotlib`
-`scikit-learn`
-`tensorflow`
-`plotly`
-`scikit-image`
+`conda create --name mlenv3_11 python=3.11`
 
-There are also packages on conda-forge that are used in the class, such as:
+`conda activate mlenv3_11`
 
-`missingno`
+`pip install jupyter` 
 
-If you wish to use JupyterLab, some visualization dependencies need to be installed:
+`pip install numpy`
 
-`conda create -n mlenv anaconda plotly`
-`conda activate mlenv`
-`conda install -c conda-forge missingno`
-`conda install nodejs`
-`jupyter labextension install @jupyterlab/plotly-extension`
-`jupyter labextension install @jupyter-widgets/jupyterlab-manager`
-`conda update scikit-image`
-`conda deactivate` 
+`pip install pandas`
+
+`pip install matplotlib`
+
+`pip install scikit-learn`
+
+`pip install plotly`
+
+`pip install scikit-image`
+
+`pip install missingno`
+
+Note: Apple M-series Macs should use a different install here (see notebook on repository)
+
+`pip install tensorflow`
+
+
+
+
+
