@@ -1,0 +1,2 @@
+umap-learn
+umap-learn[plot]
