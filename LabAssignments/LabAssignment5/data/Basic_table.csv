@@ -1,0 +1,1012 @@
+Automaker,Automaker_ID,Genmodel,Genmodel_ID
+AC,1,Cobra,1_1
+Abarth,2,124 Spider,2_1
+Abarth,2,500,2_2
+Abarth,2,500C,2_3
+Abarth,2,595,2_4
+Abarth,2,595C,2_5
+Abarth,2,695,2_6
+Abarth,2,695C,2_7
+Abarth,2,Grande Punto,2_8
+Abarth,2,Punto Evo,2_9
+Aixam,3,Crossline,3_1
+Aixam,3,400,3_2
+Aixam,3,500,3_3
+Aixam,3,a751,3_4
+Aixam,3,coupe,3_5
+Aixam,3,crossover,3_6
+Aixam,3,mega,3_7
+Aixam,3,scouty,3_8
+Alfa Romeo,4,147,4_1
+Alfa Romeo,4,156,4_2
+Alfa Romeo,4,156 Sportwagon,4_3
+Alfa Romeo,4,159,4_4
+Alfa Romeo,4,159 Sportwagon,4_5
+Alfa Romeo,4,166,4_6
+Alfa Romeo,4,4C,4_7
+Alfa Romeo,4,8C,4_8
+Alfa Romeo,4,Brera,4_9
+Alfa Romeo,4,Giulia,4_10
+Alfa Romeo,4,Giulietta,4_11
+Alfa Romeo,4,GT,4_12
+Alfa Romeo,4,GTV,4_13
+Alfa Romeo,4,MiTo,4_14
+Alfa Romeo,4,Spider,4_15
+Alfa Romeo,4,Stelvio,4_16
+Alfa Romeo,4,SZ,4_17
+Alfa Romeo,4,33,4_18
+Ariel,5,Atom,5_1
+Aston Martin,6,Cygnet,6_1
+Aston Martin,6,DB11,6_2
+Aston Martin,6,DB7,6_3
+Aston Martin,6,DB9,6_4
+Aston Martin,6,DBS,6_5
+Aston Martin,6,Rapide,6_6
+Aston Martin,6,Rapide S,6_7
+Aston Martin,6,Vanquish,6_8
+Aston Martin,6,Vantage,6_9
+Aston Martin,6,Virage,6_10
+Aston Martin,6,Vulcan,6_11
+Aston Martin,6,DB5,6_12
+Audi,7,A1,7_1
+Audi,7,A2,7_2
+Audi,7,A3,7_3
+Audi,7,A3 Cabriolet,7_4
+Audi,7,A4,7_5
+Audi,7,A4 Allroad,7_6
+Audi,7,A4 Avant,7_7
+Audi,7,A4 Cabriolet,7_8
+Audi,7,A5,7_9
+Audi,7,A5 Cabriolet,7_10
+Audi,7,A6,7_11
+Audi,7,A7,7_15
+Audi,7,A8,7_16
+Audi,7,Allroad,7_17
+Audi,7,Q2,7_18
+Audi,7,Q3,7_19
+Audi,7,Q5,7_20
+Audi,7,Q7,7_21
+Audi,7,quattro,7_22
+Audi,7,R8,7_23
+Audi,7,RS Q3,7_24
+Audi,7,RS3,7_25
+Audi,7,RS4,7_26
+Audi,7,RS4 Avant,7_27
+Audi,7,RS4 Cabriolet,7_28
+Audi,7,RS4 Saloon,7_29
+Audi,7,RS5,7_30
+Audi,7,RS6,7_31
+Audi,7,RS6 Avant,7_32
+Audi,7,RS7,7_33
+Audi,7,S1,7_34
+Audi,7,S3,7_35
+Audi,7,S4,7_36
+Audi,7,S4 Avant,7_37
+Audi,7,S4 Cabriolet,7_38
+Audi,7,S5,7_39
+Audi,7,S6 Avant,7_40
+Audi,7,S6 Saloon,7_41
+Audi,7,S7,7_42
+Audi,7,S8,7_43
+Audi,7,SQ5,7_44
+Audi,7,SQ7,7_45
+Audi,7,TT,7_46
+Audi,7,TT RS,7_47
+Audi,7,TTS,7_48
+Audi,7,Q8,7_49
+Audi,7,SQ2,7_50
+Audi,7,E-TRON,7_51
+BMW,8,1 Series,8_1
+BMW,8,2 Series,8_2
+BMW,8,2 Series Active Tourer,8_3
+BMW,8,2 Series Gran Tourer,8_4
+BMW,8,3 Series,8_5
+BMW,8,3 Series Gran Turismo,8_6
+BMW,8,4 Series,8_7
+BMW,8,4 Series Gran Coupe,8_8
+BMW,8,5 Series,8_9
+BMW,8,5 Series Gran Turismo,8_10
+BMW,8,6 Series,8_11
+BMW,8,6 Series Gran Coupe,8_12
+BMW,8,6 Series Gran Turismo,8_13
+BMW,8,7 Series,8_14
+BMW,8,Alpina B10,8_15
+BMW,8,Alpina B3,8_16
+BMW,8,Alpina B3 Bi-Turbo,8_17
+BMW,8,Alpina B5,8_18
+BMW,8,Alpina B6,8_19
+BMW,8,Alpina D3,8_20
+BMW,8,Alpina D3 Bi-Turbo,8_21
+BMW,8,Alpina D4,8_22
+BMW,8,Alpina D5 Bi-Turbo,8_23
+BMW,8,Alpina Roadster,8_24
+BMW,8,Alpina Unspecified Models,8_25
+BMW,8,Alpina Xd3 Bi-Turbo,8_26
+BMW,8,i3,8_27
+BMW,8,i8,8_28
+BMW,8,M2,8_29
+BMW,8,M3,8_30
+BMW,8,M4,8_31
+BMW,8,M5,8_32
+BMW,8,M6,8_33
+BMW,8,M6 Gran Coupe,8_34
+BMW,8,X1,8_35
+BMW,8,X2,8_36
+BMW,8,X3,8_37
+BMW,8,X4,8_38
+BMW,8,X5,8_39
+BMW,8,X5M,8_40
+BMW,8,X6,8_41
+BMW,8,X6M,8_42
+BMW,8,Z3,8_43
+BMW,8,Z3M,8_44
+BMW,8,Z4,8_45
+BMW,8,Z4M,8_46
+BMW,8,Z8,8_47
+BMW,8,M1,8_48
+BMW,8,8 Series,8_49
+BMW,8,X7,8_50
+Bac,9,Mono,9_1
+Bentley,10,Arnage,10_1
+Bentley,10,Azure,10_2
+Bentley,10,Bentayga,10_3
+Bentley,10,Brooklands,10_4
+Bentley,10,Continental,10_5
+Bentley,10,Flying Spur,10_6
+Bentley,10,Mulsanne,10_7
+Bentley,10,Series I,10_8
+Bristol,11,Fighter,11_1
+Brooke,12,Double R,12_1
+Bugatti,13,Veyron,13_1
+Cadillac,14,BLS,14_1
+Cadillac,14,CTS,14_2
+Cadillac,14,Escalade,14_3
+Cadillac,14,SRX,14_4
+Cadillac,14,STS,14_5
+Caterham,15,Seven,15_1
+Chevrolet,16,Astro,16_1
+Chevrolet,16,Aveo,16_2
+Chevrolet,16,Blazer,16_3
+Chevrolet,16,Camaro,16_4
+Chevrolet,16,Captiva,16_5
+Chevrolet,16,Corvette,16_6
+Chevrolet,16,Cruze,16_7
+Chevrolet,16,Epica,16_8
+Chevrolet,16,Impala,16_9
+Chevrolet,16,Kalos,16_10
+Chevrolet,16,Lacetti,16_11
+Chevrolet,16,Matiz,16_12
+Chevrolet,16,Orlando,16_13
+Chevrolet,16,Spark,16_14
+Chevrolet,16,Ssr,16_15
+Chevrolet,16,Tacuma,16_16
+Chevrolet,16,Tahoe,16_17
+Chevrolet,16,Trax,16_18
+Chevrolet,16,Volt,16_19
+Chrysler,17,300C,17_1
+Chrysler,17,Crossfire,17_2
+Chrysler,17,Delta,17_3
+Chrysler,17,Grand Voyager,17_4
+Chrysler,17,Neon,17_5
+Chrysler,17,Prowler,17_6
+Chrysler,17,PT Cruiser,17_7
+Chrysler,17,Sebring,17_8
+Chrysler,17,Voyager,17_9
+Chrysler,17,Ypsilon,17_10
+Citroen,18,2 CV,18_1
+Citroen,18,Berlingo,18_2
+Citroen,18,Berlingo Multispace,18_3
+Citroen,18,C-Crosser,18_4
+Citroen,18,C-Zero,18_5
+Citroen,18,C1,18_6
+Citroen,18,C2,18_7
+Citroen,18,C3,18_8
+Citroen,18,C3 Aircross,18_9
+Citroen,18,C3 Picasso,18_10
+Citroen,18,C3 Pluriel,18_11
+Citroen,18,C4,18_12
+Citroen,18,C4 Cactus,18_13
+Citroen,18,C4 Picasso,18_14
+Citroen,18,C5,18_15
+Citroen,18,C6,18_16
+Citroen,18,C8,18_17
+Citroen,18,Dispatch,18_18
+Citroen,18,Grand C4 Picasso,18_24
+Citroen,18,Nemo Multispace,18_25
+Citroen,18,Saxo,18_26
+Citroen,18,SpaceTourer,18_27
+Citroen,18,Synergie,18_28
+Citroen,18,Xsara,18_29
+Citroen,18,Xsara Picasso,18_30
+Citroen,18,Xantia,18_31
+Corvette,19,C6,19_1
+Corvette,19,C7,19_2
+Corvette,19,Stingray,19_3
+DAX,20,Tojeiro,20_1
+DS,21,3,21_1
+DS,21,3 Cabrio,21_2
+DS,21,4,21_3
+DS,21,4 Crossback,21_4
+DS,21,5,21_5
+DS,21,7,21_6
+Dacia,22,Duster,22_1
+Dacia,22,Logan MCV,22_2
+Dacia,22,Sandero,22_3
+Dacia,22,Sandero Stepway,22_4
+Daewoo,23,Kalos,23_1
+Daewoo,23,Lacetti,23_2
+Daewoo,23,Matiz,23_3
+Daewoo,23,Nubira,23_4
+Daewoo,23,Tacuma,23_5
+Daewoo,23,Lanos,23_6
+Daewoo,23,Leganza,23_7
+Daewoo,23,Musso,23_8
+Daihatsu,24,Atrai 7,24_1
+Daihatsu,24,Charade,24_2
+Daihatsu,24,Copen,24_3
+Daihatsu,24,Cuore,24_4
+Daihatsu,24,Fourtrak,24_5
+Daihatsu,24,Materia,24_6
+Daihatsu,24,Sirion,24_7
+Daihatsu,24,Terios,24_8
+Daihatsu,24,YRV,24_9
+Daimler,25,Super Eight,25_1
+Daimler,25,XJ Series,25_2
+Dodge,26,Avenger,26_1
+Dodge,26,Caliber,26_2
+Dodge,26,Challenger,26_3
+Dodge,26,Charger,26_4
+Dodge,26,Journey,26_5
+Dodge,26,Nitro,26_6
+Dodge,26,RAM,26_7
+Ferrari,27,308,27_1
+Ferrari,27,360,27_2
+Ferrari,27,430,27_3
+Ferrari,27,456,27_4
+Ferrari,27,456M,27_5
+Ferrari,27,458,27_6
+Ferrari,27,488,27_7
+Ferrari,27,550,27_8
+Ferrari,27,575M,27_9
+Ferrari,27,599,27_10
+Ferrari,27,612,27_11
+Ferrari,27,812 Superfast,27_12
+Ferrari,27,California,27_13
+Ferrari,27,Dino,27_14
+Ferrari,27,Enzo,27_15
+Ferrari,27,F12berlinetta,27_16
+Ferrari,27,F355,27_17
+Ferrari,27,F430,27_18
+Ferrari,27,FF,27_19
+Ferrari,27,Gtc4lusso,27_20
+Ferrari,27,Laferrari,27_21
+Ferrari,27,Scuderia Spider,27_22
+Ferrari,27,Portofino,27_23
+Fiat,28,124 Spider,28_1
+Fiat,28,500,28_2
+Fiat,28,500C,28_3
+Fiat,28,500L,28_4
+Fiat,28,500X,28_5
+Fiat,28,850,28_6
+Fiat,28,Abarth,28_7
+Fiat,28,Barchetta,28_8
+Fiat,28,Brava,28_9
+Fiat,28,Bravo,28_10
+Fiat,28,Croma,28_11
+Fiat,28,Doblo,28_12
+Fiat,28,Fiorino,28_13
+Fiat,28,Fullback,28_14
+Fiat,28,Grande Punto,28_15
+Fiat,28,Idea,28_16
+Fiat,28,Multipla,28_17
+Fiat,28,Panda,28_18
+Fiat,28,Punto,28_19
+Fiat,28,Punto Evo,28_20
+Fiat,28,Qubo,28_21
+Fiat,28,Scudo,28_22
+Fiat,28,Sedici,28_23
+Fiat,28,Seicento,28_24
+Fiat,28,Spider,28_25
+Fiat,28,Stilo,28_26
+Fiat,28,Talento,28_27
+Fiat,28,Tipo,28_28
+Fiat,28,Ulysse,28_29
+Fiat,28,Marea,28_30
+Ford,29,B-Max,29_1
+Ford,29,C-Max,29_2
+Ford,29,Cougar,29_3
+Ford,29,EcoSport,29_4
+Ford,29,Edge,29_5
+Ford,29,Escape,29_6
+Ford,29,Escort,29_7
+Ford,29,Expedition,29_8
+Ford,29,Explorer,29_9
+Ford,29,F1,29_10
+Ford,29,F150,29_11
+Ford,29,F250,29_12
+Ford,29,Fiesta,29_13
+Ford,29,Focus,29_14
+Ford,29,Focus C-Max,29_15
+Ford,29,Focus CC,29_16
+Ford,29,Freda,29_17
+Ford,29,Fusion,29_18
+Ford,29,Galaxy,29_19
+Ford,29,Grand C-Max,29_20
+Ford,29,Grand Tourneo Connect,29_21
+Ford,29,GT,29_22
+Ford,29,Ka,29_23
+Ford,29,Ka+,29_24
+Ford,29,Kuga,29_25
+Ford,29,Maverick,29_26
+Ford,29,Mondeo,29_27
+Ford,29,Mustang,29_28
+Ford,29,Puma,29_29
+Ford,29,Ranger,29_30
+Ford,29,S-Max,29_31
+Ford,29,Streetka,29_32
+Ford,29,Thames,29_33
+Ford,29,Tourneo Connect,29_34
+Ford,29,Tourneo Custom,29_35
+Ford,29,Transit Connect,29_36
+Ford,29,Transit Courier,29_37
+Ford,29,Transit Custom,29_38
+Ford,29,Tourneo Courier,29_39
+Ford,29,Freedom,29_40
+Ford,29,Independence,29_41
+GMC,30,Sierra,30_1
+GMC,30,Yukon,30_2
+Ginetta,31,G40R,31_1
+Great Wall,32,Steed,32_1
+Grinnall,33,Scorpion,33_1
+Honda,34,Accord,34_1
+Honda,34,Civic,34_2
+Honda,34,CR-V,34_3
+Honda,34,CR-Z,34_4
+Honda,34,Element,34_5
+Honda,34,Elysion,34_6
+Honda,34,FR-V,34_7
+Honda,34,HR-V,34_8
+Honda,34,Insight,34_9
+Honda,34,Integra,34_10
+Honda,34,Jazz,34_11
+Honda,34,Legend,34_12
+Honda,34,NSX,34_13
+Honda,34,Odyssey,34_14
+Honda,34,S-Mx,34_15
+Honda,34,S2000,34_16
+Honda,34,Stepwagon,34_17
+Honda,34,Stream,34_18
+Honda,34,Prelude,34_19
+Hummer,35,H1,35_1
+Hummer,35,H2,35_2
+Hummer,35,H3,35_3
+Hyundai,36,Accent,36_1
+Hyundai,36,Amica,36_2
+Hyundai,36,Coupe,36_3
+Hyundai,36,Elantra,36_4
+Hyundai,36,Genesis,36_5
+Hyundai,36,Getz,36_6
+Hyundai,36,Grandeur,36_7
+Hyundai,36,i10,36_8
+Hyundai,36,i20,36_9
+Hyundai,36,i30,36_10
+Hyundai,36,I30 N,36_11
+Hyundai,36,i40,36_12
+Hyundai,36,i800,36_13
+Hyundai,36,Ioniq,36_14
+Hyundai,36,ix20,36_15
+Hyundai,36,ix35,36_16
+Hyundai,36,Kona,36_17
+Hyundai,36,Matrix,36_18
+Hyundai,36,S-Coupe,36_19
+Hyundai,36,Santa Fe,36_20
+Hyundai,36,Sonata,36_21
+Hyundai,36,Terracan,36_22
+Hyundai,36,Trajet,36_23
+Hyundai,36,Tucson,36_24
+Hyundai,36,Veloster,36_25
+Hyundai,36,XG30,36_26
+Infiniti,37,EX,37_1
+Infiniti,37,FX,37_2
+Infiniti,37,G,37_3
+Infiniti,37,M,37_4
+Infiniti,37,Q30,37_5
+Infiniti,37,Q50,37_6
+Infiniti,37,Q60,37_7
+Infiniti,37,Q70,37_8
+Infiniti,37,QX30,37_9
+Infiniti,37,QX50,37_10
+Infiniti,37,QX70,37_11
+Infiniti,37,Vettel,37_12
+Isuzu,38,Bighorn,38_1
+Isuzu,38,D-Max,38_2
+Isuzu,38,Rodeo,38_3
+Isuzu,38,Trooper,38_4
+Jaguar,39,E-PACE,39_1
+Jaguar,39,F-PACE,39_2
+Jaguar,39,F-Type,39_3
+Jaguar,39,S-Type,39_4
+Jaguar,39,X-Type,39_5
+Jaguar,39,XE,39_6
+Jaguar,39,XF,39_7
+Jaguar,39,XJ,39_8
+Jaguar,39,XK,39_9
+Jaguar,39,XK8,39_10
+Jaguar,39,XKR,39_11
+Jaguar,39,XKR-S,39_12
+Jaguar,39,I-PACE,39_13
+Jaguar,39,EAGLE,39_14
+Jeep,40,Cherokee,40_1
+Jeep,40,Commander,40_2
+Jeep,40,Compass,40_3
+Jeep,40,Grand Cherokee,40_4
+Jeep,40,Patriot,40_5
+Jeep,40,Renegade,40_6
+Jeep,40,Wrangler,40_7
+Jensen,41,GT,41_1
+KTM,42,X-Bow,42_1
+Kia,43,Carens,43_1
+Kia,43,'Cee''d',43_2
+Kia,43,Cerato,43_3
+Kia,43,Magentis,43_4
+Kia,43,Niro,43_5
+Kia,43,Optima,43_6
+Kia,43,Picanto,43_7
+Kia,43,'Pro_Cee''d',43_8
+Kia,43,Rio,43_9
+Kia,43,Sedona,43_10
+Kia,43,Sorento,43_11
+Kia,43,Soul,43_12
+Kia,43,Sportage,43_13
+Kia,43,Stinger,43_14
+Kia,43,Stonic,43_15
+Kia,43,Venga,43_16
+Kia,43,Sephia,43_17
+Kia,43,Soul EV,43_18
+Kia,43,Xceed,43_19
+Koenigsegg,44,Ccx,44_1
+Lamborghini,45,Aventador,45_1
+Lamborghini,45,Diablo,45_2
+Lamborghini,45,Gallardo,45_3
+Lamborghini,45,Huracan,45_4
+Lamborghini,45,Murcielago,45_5
+Lancia,46,Ypsilon,46_1
+Land Rover,47,110,47_1
+Land Rover,47,Defender 110,47_2
+Land Rover,47,Defender 130,47_3
+Land Rover,47,Defender 90,47_4
+Land Rover,47,Defender Unspecified,47_5
+Land Rover,47,Discovery,47_6
+Land Rover,47,Discovery 2,47_7
+Land Rover,47,Discovery 3,47_8
+Land Rover,47,Discovery 4,47_9
+Land Rover,47,Discovery Sport,47_10
+Land Rover,47,Freelander,47_11
+Land Rover,47,Freelander 2,47_12
+Land Rover,47,Range Rover,47_13
+Land Rover,47,Range Rover Evoque,47_14
+Land Rover,47,Range Rover Sport,47_15
+Land Rover,47,Range Rover Velar,47_16
+Land Rover,47,Series III,47_17
+Lexus,48,CT,48_1
+Lexus,48,GS,48_2
+Lexus,48,IS,48_8
+Lexus,48,LC,48_14
+Lexus,48,LS,48_15
+Lexus,48,NX,48_18
+Lexus,48,RC,48_21
+Lexus,48,RX,48_24
+Lexus,48,SC,48_30
+Lexus,48,UX,48_31
+Lexus,48,ES,48_32
+Lincoln,49,Navigator,49_1
+Lincoln,49,Town Car,49_2
+London Taxis International,50,TX4,50_1
+London Taxis International,50,Txi,50_2
+London Taxis International,50,Txii,50_3
+Lotus,51,2-Eleven,51_1
+Lotus,51,3-Eleven,51_2
+Lotus,51,Elise,51_3
+Lotus,51,Elise S,51_4
+Lotus,51,Esprit,51_5
+Lotus,51,Evora,51_6
+Lotus,51,Exige,51_7
+MEV,52,Exocet,52_1
+MG,53,GS,53_1
+MG,53,MG3,53_2
+MG,53,MG6,53_3
+MG,53,MGF,53_4
+MG,53,TF,53_5
+MG,53,ZR,53_6
+MG,53,ZS,53_7
+MG,53,ZT,53_8
+MG,53,ZT-T,53_9
+MG,53,XS,53_10
+MINI,54,Clubman,54_1
+MINI,54,Clubvan,54_2
+MINI,54,Convertible,54_3
+MINI,54,Countryman,54_4
+MINI,54,Coupe,54_5
+MINI,54,Hatch,54_6
+MINI,54,Paceman,54_7
+MINI,54,Roadster,54_8
+MINI,54,John Cooper Works,54_9
+MINI,54,Cooper s,54_10
+MINI,54,Unspecified,54_11
+Maserati,55,3200,55_1
+Maserati,55,4200,55_2
+Maserati,55,Cambiocorsa,55_3
+Maserati,55,Coupe,55_4
+Maserati,55,Ghibli,55_5
+Maserati,55,GranCabrio,55_6
+Maserati,55,Gransport,55_7
+Maserati,55,Granturismo,55_8
+Maserati,55,Levante,55_9
+Maserati,55,Quattroporte,55_10
+Maserati,55,Spyder,55_11
+Maybach,56,57,56_1
+Maybach,56,62,56_2
+Mazda,57,323,57_1
+Mazda,57,626,57_2
+Mazda,57,B2500,57_3
+Mazda,57,Bongo,57_4
+Mazda,57,BT-50,57_5
+Mazda,57,CX-3,57_6
+Mazda,57,CX-5,57_7
+Mazda,57,CX-7,57_8
+Mazda,57,Demio,57_9
+Mazda,57,Mazda2,57_10
+Mazda,57,Mazda3,57_11
+Mazda,57,Mazda5,57_12
+Mazda,57,Mazda6,57_13
+Mazda,57,MPV,57_14
+Mazda,57,MX-5,57_15
+Mazda,57,MX-5 RF,57_16
+Mazda,57,Premacy,57_17
+Mazda,57,RX-8,57_18
+Mazda,57,Tribute,57_19
+McLaren,58,12C,58_1
+McLaren,58,540C,58_2
+McLaren,58,570GT,58_3
+McLaren,58,570S,58_4
+McLaren,58,650S,58_5
+McLaren,58,675LT,58_6
+McLaren,58,720S,58_7
+McLaren,58,P1,58_8
+McLaren,58,600LT,58_9
+Mercedes-Benz,59,200,59_1
+Mercedes-Benz,59,220,59_2
+Mercedes-Benz,59,230,59_3
+Mercedes-Benz,59,250,59_4
+Mercedes-Benz,59,320,59_5
+Mercedes-Benz,59,350,59_6
+Mercedes-Benz,59,500,59_7
+Mercedes-Benz,59,A Class,59_8
+Mercedes-Benz,59,AMG,59_9
+Mercedes-Benz,59,Amg Gt,59_10
+Mercedes-Benz,59,B Class,59_11
+Mercedes-Benz,59,C Class,59_12
+Mercedes-Benz,59,Citan,59_13
+Mercedes-Benz,59,Citan Traveliner,59_14
+Mercedes-Benz,59,CL,59_15
+Mercedes-Benz,59,CLA Class,59_16
+Mercedes-Benz,59,CLC Class,59_17
+Mercedes-Benz,59,CLK,59_18
+Mercedes-Benz,59,CLS,59_19
+Mercedes-Benz,59,E Class,59_20
+Mercedes-Benz,59,G Class,59_21
+Mercedes-Benz,59,GL Class,59_22
+Mercedes-Benz,59,GLA Class,59_23
+Mercedes-Benz,59,GLC Class,59_24
+Mercedes-Benz,59,GLE Class,59_25
+Mercedes-Benz,59,GLS Class,59_26
+Mercedes-Benz,59,M Class,59_27
+Mercedes-Benz,59,R Class,59_28
+Mercedes-Benz,59,S Class,59_29
+Mercedes-Benz,59,SL Class,59_30
+Mercedes-Benz,59,SLC,59_31
+Mercedes-Benz,59,SLK,59_32
+Mercedes-Benz,59,SLR McLaren,59_33
+Mercedes-Benz,59,SLS,59_34
+Mercedes-Benz,59,Sprinter,59_35
+Mercedes-Benz,59,V Class,59_36
+Mercedes-Benz,59,Vaneo,59_37
+Mercedes-Benz,59,Viano,59_38
+Mercedes-Benz,59,Vito,59_39
+Mercedes-Benz,59,X Class,59_40
+Messerschmitt,60,KR200,60_1
+Microcar,61,M.GO,61_1
+Microcar,61,M,61_2
+Mitsubishi,62,ASX,62_1
+Mitsubishi,62,Carisma,62_2
+Mitsubishi,62,Colt,62_3
+Mitsubishi,62,Colt Cabriolet,62_4
+Mitsubishi,62,Colt Space Star,62_5
+Mitsubishi,62,Delica,62_6
+Mitsubishi,62,Eclipse Cross,62_7
+Mitsubishi,62,FTO,62_8
+Mitsubishi,62,Galant,62_9
+Mitsubishi,62,Grandis,62_10
+Mitsubishi,62,Gto,62_11
+Mitsubishi,62,i,62_12
+Mitsubishi,62,L200,62_13
+Mitsubishi,62,Lancer,62_14
+Mitsubishi,62,Mirage,62_15
+Mitsubishi,62,Outlander,62_16
+Mitsubishi,62,Pajero,62_17
+Mitsubishi,62,Shogun,62_18
+Mitsubishi,62,Shogun Pinin,62_19
+Mitsubishi,62,Shogun Sport,62_20
+Mitsubishi,62,Space Star,62_21
+Mitsubishi,62,Space Wagon,62_22
+Morgan,63,4,63_1
+Morgan,63,Aero,63_2
+Morgan,63,Plus 4,63_3
+Morgan,63,Plus 8,63_4
+Morgan,63,Roadster,63_5
+Nissan,64,350 Z,64_1
+Nissan,64,370 Z,64_2
+Nissan,64,Almera,64_3
+Nissan,64,Almera Tino,64_4
+Nissan,64,Cube,64_5
+Nissan,64,Cubic,64_6
+Nissan,64,e-NV200,64_7
+Nissan,64,Elgrand,64_8
+Nissan,64,eNV200 Evalia,64_9
+Nissan,64,Fairlady,64_10
+Nissan,64,Figaro,64_11
+Nissan,64,Gloria,64_12
+Nissan,64,GT-R,64_13
+Nissan,64,Juke,64_14
+Nissan,64,Largo,64_15
+Nissan,64,Leaf,64_16
+Nissan,64,Micra,64_17
+Nissan,64,Micra C+C,64_18
+Nissan,64,Murano,64_19
+Nissan,64,Navara,64_20
+Nissan,64,Note,64_21
+Nissan,64,NV200,64_22
+Nissan,64,NV300,64_23
+Nissan,64,Pathfinder,64_24
+Nissan,64,Patrol,64_25
+Nissan,64,Patrol GR,64_26
+Nissan,64,Pickup,64_27
+Nissan,64,Pixo,64_28
+Nissan,64,President,64_29
+Nissan,64,Primastar,64_30
+Nissan,64,Primera,64_31
+Nissan,64,Pulsar,64_32
+Nissan,64,Qashqai,64_33
+Nissan,64,Qashqai+2,64_34
+Nissan,64,Serena,64_35
+Nissan,64,Skyline,64_36
+Nissan,64,Stagea,64_37
+Nissan,64,Terrano,64_38
+Nissan,64,Terrano II,64_39
+Nissan,64,Tiida,64_40
+Nissan,64,X-Trail,64_41
+Noble,65,M12,65_1
+Noble,65,M600,65_2
+Opel,66,Astra,66_1
+Opel,66,Insignia,66_2
+Opel,66,Zafira,66_3
+Pagani,67,Huayra,67_1
+Perodua,68,Kelisa,68_1
+Perodua,68,Myvi,68_2
+Perodua,68,Kenari,68_3
+Peugeot,69,1007,69_1
+Peugeot,69,106,69_2
+Peugeot,69,107,69_3
+Peugeot,69,108,69_4
+Peugeot,69,2008,69_5
+Peugeot,69,206,69_6
+Peugeot,69,206 CC,69_7
+Peugeot,69,206 SW,69_8
+Peugeot,69,207,69_9
+Peugeot,69,207 CC,69_10
+Peugeot,69,207 SW,69_11
+Peugeot,69,208,69_12
+Peugeot,69,3008,69_13
+Peugeot,69,306,69_14
+Peugeot,69,307,69_15
+Peugeot,69,307 CC,69_16
+Peugeot,69,307 SW,69_17
+Peugeot,69,308,69_18
+Peugeot,69,308 CC,69_19
+Peugeot,69,308 SW,69_20
+Peugeot,69,4007,69_21
+Peugeot,69,406,69_22
+Peugeot,69,407,69_23
+Peugeot,69,407 SW,69_24
+Peugeot,69,5008,69_25
+Peugeot,69,508,69_26
+Peugeot,69,508 SW,69_27
+Peugeot,69,607,69_28
+Peugeot,69,807,69_29
+Peugeot,69,Bipper Tepee,69_30
+Peugeot,69,Expert,69_31
+Peugeot,69,Expert Tepee,69_32
+Peugeot,69,iOn,69_33
+Peugeot,69,Partner,69_34
+Peugeot,69,Partner Tepee,69_35
+Peugeot,69,RCZ,69_36
+Peugeot,69,Traveller,69_37
+Peugeot,69,806,69_38
+Peugeot,69,Partner Combi,69_39
+Peugeot,69,Expert Combi,69_40
+Peugeot,69,Boxer,69_41
+Peugeot,69,Rifter,69_42
+Peugeot,69,Independence,69_43
+Pilgrim,70,3000,70_1
+Porsche,71,356,71_1
+Porsche,71,718 Boxster,71_2
+Porsche,71,718 Cayman,71_3
+Porsche,71,911,71_4
+Porsche,71,918,71_5
+Porsche,71,Boxster,71_6
+Porsche,71,Carrera Gt,71_7
+Porsche,71,Cayenne,71_8
+Porsche,71,Cayman,71_9
+Porsche,71,Macan,71_10
+Porsche,71,Panamera,71_11
+Proton,72,GEN-2,72_1
+Proton,72,Impian,72_2
+Proton,72,Jumbuck,72_3
+Proton,72,Persona,72_4
+Proton,72,Satria Neo,72_5
+Proton,72,Savvy,72_6
+Proton,72,Wira,72_7
+Radical,73,SR3,73_1
+Raw,74,Falcrum,74_1
+Renault,75,Captur,75_1
+Renault,75,Clio,75_2
+Renault,75,Espace,75_3
+Renault,75,Fluence,75_4
+Renault,75,Grand Espace,75_5
+Renault,75,Grand Modus,75_6
+Renault,75,Grand Scenic,75_7
+Renault,75,Kadjar,75_8
+Renault,75,Kangoo,75_9
+Renault,75,Koleos,75_10
+Renault,75,Laguna,75_11
+Renault,75,Megane,75_12
+Renault,75,Modus,75_13
+Renault,75,Scenic,75_14
+Renault,75,Scenic RX4,75_15
+Renault,75,Scenic Xmod,75_16
+Renault,75,Trafic,75_17
+Renault,75,Twingo,75_18
+Renault,75,Twizy,75_19
+Renault,75,Vel Satis,75_20
+Renault,75,Wind,75_21
+Renault,75,Zoe,75_22
+Renault,75,Master,75_23
+Reva,76,G-Wiz,76_1
+Rolls-Royce,77,Corniche,77_1
+Rolls-Royce,77,Dawn,77_2
+Rolls-Royce,77,Ghost,77_3
+Rolls-Royce,77,Phantom,77_4
+Rolls-Royce,77,Silver Seraph,77_5
+Rolls-Royce,77,Wraith,77_6
+Rover,78,25,78_1
+Rover,78,45,78_2
+Rover,78,75,78_3
+Rover,78,75 Tourer,78_4
+Rover,78,City Rover,78_5
+Rover,78,Mini,78_6
+Rover,78,Streetwise,78_7
+Rover,78,600,78_8
+SEAT,79,Alhambra,79_1
+SEAT,79,Altea,79_2
+SEAT,79,Altea XL,79_3
+SEAT,79,Arona,79_4
+SEAT,79,Arosa,79_5
+SEAT,79,Ateca,79_6
+SEAT,79,Cordoba,79_7
+SEAT,79,Exeo,79_8
+SEAT,79,Ibiza,79_9
+SEAT,79,Leon,79_10
+SEAT,79,Mii,79_11
+SEAT,79,Toledo,79_12
+SEAT,79,Tarraco,79_13
+SKODA,80,Citigo,80_1
+SKODA,80,Fabia,80_2
+SKODA,80,Karoq,80_3
+SKODA,80,Kodiaq,80_4
+SKODA,80,Octavia,80_5
+SKODA,80,Rapid,80_6
+SKODA,80,Rapid Spaceback,80_7
+SKODA,80,Roomster,80_8
+SKODA,80,Superb,80_9
+SKODA,80,Yeti,80_10
+SKODA,80,Felicia,80_11
+SKODA,80,Scala,80_12
+Saab,81,9-3,81_1
+Saab,81,9-3X,81_2
+Saab,81,9-5,81_3
+Santana,82,PS10,82_1
+Sebring,83,SX,83_1
+Smart,84,forfour,84_1
+Smart,84,fortwo,84_2
+Smart,84,Roadster,84_3
+Ssangyong,85,Korando,85_1
+Ssangyong,85,Korando Sports,85_2
+Ssangyong,85,Kyron,85_3
+Ssangyong,85,Musso,85_4
+Ssangyong,85,Rexton,85_5
+Ssangyong,85,Rodius,85_6
+Ssangyong,85,Tivoli,85_7
+Ssangyong,85,Tivoli XLV,85_8
+Ssangyong,85,Turismo,85_9
+Subaru,86,BRZ,86_1
+Subaru,86,Forester,86_2
+Subaru,86,Impreza,86_3
+Subaru,86,Justy,86_4
+Subaru,86,Legacy,86_5
+Subaru,86,Levorg,86_6
+Subaru,86,Outback,86_7
+Subaru,86,Sambar,86_8
+Subaru,86,Tribeca,86_9
+Subaru,86,WRX STI,86_10
+Subaru,86,XV,86_11
+Suzuki,87,Alto,87_1
+Suzuki,87,Baleno,87_2
+Suzuki,87,Celerio,87_3
+Suzuki,87,Grand Vitara,87_4
+Suzuki,87,Ignis,87_5
+Suzuki,87,Jimny,87_6
+Suzuki,87,Kizashi,87_7
+Suzuki,87,Liana,87_8
+Suzuki,87,Splash,87_9
+Suzuki,87,Swift,87_10
+Suzuki,87,SX4,87_11
+Suzuki,87,SX4 S-Cross,87_12
+Suzuki,87,Vitara,87_13
+Suzuki,87,Wagon R,87_14
+TVR,88,Cerbera,88_1
+TVR,88,Sagaris,88_2
+TVR,88,T350,88_3
+TVR,88,Tuscan,88_4
+Tata,89,Safari,89_1
+Tesla,90,Model S,90_1
+Tesla,90,Model X,90_2
+Tesla,90,Model 3,90_3
+Tiger,91,Avon,91_1
+Tiger,91,Super Six,91_2
+Toyota,92,4-Runner,92_1
+Toyota,92,Alphard,92_2
+Toyota,92,Auris,92_3
+Toyota,92,Avensis,92_4
+Toyota,92,Avensis Verso,92_5
+Toyota,92,AYGO,92_6
+Toyota,92,BB,92_7
+Toyota,92,C-HR,92_8
+Toyota,92,Camry,92_9
+Toyota,92,Celica,92_10
+Toyota,92,Corolla,92_11
+Toyota,92,Corolla Verso,92_12
+Toyota,92,Emina,92_13
+Toyota,92,Estima,92_14
+Toyota,92,Fj Cruiser,92_15
+Toyota,92,Granvia,92_16
+Toyota,92,GT86,92_17
+Toyota,92,HiAce,92_18
+Toyota,92,Hilux,92_19
+Toyota,92,iQ,92_20
+Toyota,92,Land Cruiser,92_21
+Toyota,92,Land Cruiser Amazon,92_22
+Toyota,92,Land Cruiser Colorado,92_23
+Toyota,92,Lucida,92_24
+Toyota,92,MR2,92_25
+Toyota,92,Noah,92_26
+Toyota,92,Picnic,92_27
+Toyota,92,Prado,92_28
+Toyota,92,Previa,92_29
+Toyota,92,Prius,92_30
+Toyota,92,Prius+,92_31
+Toyota,92,Proace,92_32
+Toyota,92,PROACE Verso,92_33
+Toyota,92,RAV4,92_34
+Toyota,92,Soarer,92_35
+Toyota,92,Starlet,92_36
+Toyota,92,Supra,92_37
+Toyota,92,Surf,92_38
+Toyota,92,Urbancruiser,92_39
+Toyota,92,Verso,92_40
+Toyota,92,Verso S,92_41
+Toyota,92,Voxy,92_42
+Toyota,92,Wish,92_43
+Toyota,92,Yaris,92_44
+Toyota,92,Yaris Verso,92_45
+Ultima,93,Can-Am,93_1
+Vauxhall,94,ADAM,94_1
+Vauxhall,94,Agila,94_2
+Vauxhall,94,Ampera,94_3
+Vauxhall,94,Antara,94_4
+Vauxhall,94,Astra,94_5
+Vauxhall,94,Astra GTC,94_6
+Vauxhall,94,Cascada,94_7
+Vauxhall,94,Combo Tour,94_8
+Vauxhall,94,Corsa,94_9
+Vauxhall,94,Crossland X,94_10
+Vauxhall,94,Frontera,94_11
+Vauxhall,94,Grandland X,94_12
+Vauxhall,94,Insignia,94_13
+Vauxhall,94,Meriva,94_14
+Vauxhall,94,Mokka,94_15
+Vauxhall,94,Mokka X,94_16
+Vauxhall,94,Monaro,94_17
+Vauxhall,94,Movano,94_18
+Vauxhall,94,Omega,94_19
+Vauxhall,94,Signum,94_20
+Vauxhall,94,Tigra,94_21
+Vauxhall,94,Vectra,94_22
+Vauxhall,94,Viva,94_23
+Vauxhall,94,Vivaro,94_24
+Vauxhall,94,VX220,94_25
+Vauxhall,94,VXR8,94_26
+Vauxhall,94,Zafira,94_27
+Vauxhall,94,Zafira Tourer,94_28
+Volkswagen,95,Amarok,95_1
+Volkswagen,95,Arteon,95_2
+Volkswagen,95,Beetle,95_3
+Volkswagen,95,Bora,95_4
+Volkswagen,95,Caddy,95_5
+Volkswagen,95,Caddy Life,95_6
+Volkswagen,95,Caddy Maxi,95_7
+Volkswagen,95,Caddy Maxi Life,95_8
+Volkswagen,95,California,95_9
+Volkswagen,95,Campervan,95_10
+Volkswagen,95,Caravelle,95_11
+Volkswagen,95,CC,95_12
+Volkswagen,95,Eos,95_13
+Volkswagen,95,Fox,95_14
+Volkswagen,95,Golf,95_15
+Volkswagen,95,Golf Plus,95_16
+Volkswagen,95,Golf SV,95_17
+Volkswagen,95,Jetta,95_18
+Volkswagen,95,Lupo,95_19
+Volkswagen,95,Passat,95_20
+Volkswagen,95,Phaeton,95_21
+Volkswagen,95,Polo,95_22
+Volkswagen,95,Scirocco,95_23
+Volkswagen,95,Sharan,95_24
+Volkswagen,95,T-Roc,95_25
+Volkswagen,95,Tiguan,95_26
+Volkswagen,95,Tiguan Allspace,95_27
+Volkswagen,95,Touareg,95_28
+Volkswagen,95,Touran,95_29
+Volkswagen,95,Transporter,95_30
+Volkswagen,95,Transporter Shuttle,95_31
+Volkswagen,95,Transporter Sportline,95_32
+Volkswagen,95,up!,95_33
+Volkswagen,95,Vento,95_34
+Volkswagen,95,XL1,95_35
+Volkswagen,95,E-Golf,95_36
+Volkswagen,95,T-Cross,95_37
+Volvo,96,C30,96_1
+Volvo,96,C70,96_2
+Volvo,96,S40,96_3
+Volvo,96,S60,96_4
+Volvo,96,S80,96_5
+Volvo,96,S90,96_6
+Volvo,96,V40,96_7
+Volvo,96,V40 Cross Country,96_8
+Volvo,96,V50,96_9
+Volvo,96,V60,96_10
+Volvo,96,V60 Cross Country,96_11
+Volvo,96,V70,96_12
+Volvo,96,V70 Cross Country,96_13
+Volvo,96,V90,96_14
+Volvo,96,V90 Cross Country,96_15
+Volvo,96,XC60,96_16
+Volvo,96,XC70,96_17
+Volvo,96,XC90,96_18
+Volvo,96,S70,96_19
+Volvo,96,XC40,96_20
+Westfield,97,Sport,97_1
+Westfield,97,XI,97_2
+Yamaha,98,Yxz 1000r,98_1
+Zenos,99,E10,99_1
+Acura,100,TL,100_1
+Alpine,101,A110,101_1
