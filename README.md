@@ -4,7 +4,7 @@ This is a repository for my course at SMU, CS5/7324, previously named machine le
 
 The environment should be setup using the following installs for python 3.12 (latest tested version with all code in repository). Different installation instructions are given depending on if you are installing for (1) MacOS (using Apple Silicon) or (2) another OS, as shown below:
 
-## Most Install Instructions (Wiondows, Linux, and Intel-base Macs)
+## Most Install Instructions (Windows, Linux, and Intel-base Macs)
 For operating systems that do NOT use Apple Silicon, you can use the following commands: 
 
 `conda create --name mlenv3_12 python=3.12`
@@ -20,6 +20,10 @@ For operating systems that do NOT use Apple Silicon, you can use the following c
 
 ## Apple Silicon MacOS Install Instructions
 Note: Apple M-series Macs should use a different install procedure as follows:
+
+`conda create --name mlenv3_12 python=3.12`
+
+`conda activate mlenv3_12`
 
 `python -m pip install tensorflow-macos`
 
